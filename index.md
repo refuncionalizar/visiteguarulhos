@@ -17,6 +17,8 @@ Além de cursinho, o A-Sol também apresenta uma cozinha comunitária que oferec
 
 ## Fotos
 
+<img src="/novosite/assets/img/fotos/foto1.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
 <img src="/novosite/assets/img/fotos/foto2.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
 
 <img src="/novosite/assets/img/fotohist.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
