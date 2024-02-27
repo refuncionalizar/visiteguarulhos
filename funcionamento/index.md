@@ -9,4 +9,13 @@ title: Funcionamento
 
 <p style="text-align:justify;"> Outras atividades relacionadas ao Centro Comunitário A-Sol, como saraus e cursos de formação ocorrem em datas e horários diversos, sendo possível o acompanhamento por meio das redes sociais do A-Sol. </p>
 
-<img src="/novosite/assets/img/fotofunc.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
+<img src="/novosite/assets/img/fotos/func1.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
+<img src="/novosite/assets/img/fotos/func2.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
+<img src="/novosite/assets/img/fotos/func3.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
+<img src="/novosite/assets/img/fotos/func4.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
+<img src="/novosite/assets/img/fotos/func5.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
