@@ -18,11 +18,19 @@ Além de cursinho, o A-Sol também apresenta uma cozinha comunitária que oferec
 ## Fotos
 
 
-<img src="/novosite/assets/img/fotos/foto2.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+<img src="/novosite/assets/img/fotos/acolhida2023.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
 
-<img src="/novosite/assets/img/fotohist.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+<img src="/novosite/assets/img/assin2022.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
 
-<img src="/novosite/assets/img/fotos/foto4.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+<img src="/novosite/assets/img/fotos/acolhida1.png" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
 
-<img src="/novosite/assets/img/fotos/foto1.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+<img src="/novosite/assets/img/fotos/aula2023.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
+<img src="/novosite/assets/img/fotos/acolhida2.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
+<img src="/novosite/assets/img/fotos/acolhida2022.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
+<img src="/novosite/assets/img/fotos/acolhida3.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+
+<img src="/novosite/assets/img/fotos/passeio2023.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
 
