@@ -20,7 +20,7 @@ Além de cursinho, o A-Sol também apresenta uma cozinha comunitária que oferec
 
 <img src="/novosite/assets/img/fotos/acolhida2023.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
 
-<img src="/novosite/assets/img/assin2022.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+<img src="/novosite/assets/img/fotos/assin2022.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
 
 <img src="/novosite/assets/img/fotos/acolhida1.png" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
 
