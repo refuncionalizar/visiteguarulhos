@@ -16,3 +16,6 @@ Além de cursinho, o A-Sol também apresenta uma cozinha comunitária que oferec
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=10LPFfOQs-K0vDFnkDwFXEh64xuXFb28&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
 
 ## Fotos
+
+<p style="text-align:center;"><img src="assets/img/cursinho.jpg" width="50%"></p>
+
