@@ -6,10 +6,10 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Cursinho A-Sol
-  desc: Hello nice to meet you
+  name: 
+  desc: 
   email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  selfie: assets/img/cursinho.png
 
 # social
 social:
