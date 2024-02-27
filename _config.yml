@@ -1,6 +1,6 @@
 # Site settings
 title: Cursinho Comunitário A-Sol
-baseurl: "/novosite"
+baseurl: "/"
 url: "https://cursinhoasol.com.br"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
