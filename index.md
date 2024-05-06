@@ -2,14 +2,23 @@
 layout: about 
 ---
 
-<p style="text-align:justify;">O Cursinho Comunitário Arrastão da Solidariedade tem como objetivo oferecer o preparo necessário para estudantes periféricos de Guarulhos acessarem um ensino superior público e de qualidade. Popularmente conhecido como A-Sol, é um movimento social que funciona com cooperação, militância e solidariedade de classe. </p>
+<h1>Conheça Guarulhos com a VisiteGuarulhos</h1>
 
-<p style="text-align:justify;">Diferente de um cursinho comercial, o A-Sol não defende a mercantilização da educação do acesso ao ensino superior com slogans de "garantia" de sucesso em exames de vestibulares. Enxergamos a disparidade entre o ensino público e privado, e atuamos no preparo de estudantes de baixa renda nos vestibulares de universidades públicas de referência, bem como no acesso ao ensino superior privado com auxílio de programas sociais como o ProUni. </p>
+Guarulhos, embora muitas vezes seja conhecido principalmente pelo seu aeroporto internacional, também tem alguns pontos turísticos interessantes para oferecer aos visitantes. Aqui estão alguns dos principais:
 
-<p style="text-align:justify;">Em meio as disciplinas abordadas em vestibulares como ENEM e Fuvest, tratamos também de habilidades relacionadas ao pensamento crítico e do senso de coletividade, com o objetivo de tornar os estudantes conhecedores dos problemas sociais do Brasil, para que, assim, a sociedade tenha como retorno jovens capazes de propor soluções e atuar no meio em que vivem.
-Além de cursinho, o A-Sol também apresenta uma cozinha comunitária que oferece refeição gratuita aos estudantes, uma biblioteca comunitária, e atividades culturais por meio do Centro Comunitário A-Sol, como sarau, festa junina, passeios culturais e cursos de formação.</p>
+Bosque Maia: É o maior parque urbano da cidade, oferecendo uma área verde significativa, trilhas para caminhada, quadras esportivas, playgrounds e até mesmo um lago com pedalinhos. É um ótimo lugar para relaxar e desfrutar da natureza.
 
-<p style="text-align:justify;">Nossa luta é fundamentada no combate à desigualdade entre as classes sociais e narrativas e ataques neoliberais perante a população. Acreditamos na democratização do ensino através da educação popular, da consciência politizada e atitudes anticapitalistas. Aqui, o acesso ao ensino superior se dará em conjunto desses processos. Não precisamos nos contentar com a ascenção social, quando podemos transformar nossa realidade.</p>
+Parque Ecológico do Tietê: Localizado às margens do rio Tietê, este parque oferece uma ampla gama de atividades ao ar livre, como trilhas para caminhada, ciclovias, quadras esportivas e áreas para piquenique. Também é um importante centro de preservação ambiental.
+
+Igreja Matriz de Nossa Senhora da Conceição: Uma das mais antigas e importantes igrejas da cidade, construída no século XVI. É um marco histórico e arquitetônico que vale a pena visitar para apreciar sua beleza e significado cultural.
+
+Museu Histórico Municipal de Guarulhos: Este museu oferece uma visão fascinante da história e cultura da região, com exposições permanentes e temporárias que abrangem desde artefatos pré-coloniais até objetos do século XX.
+
+Centro Cultural Adamastor: Um espaço cultural multifuncional que abriga exposições de arte, apresentações teatrais, concertos e eventos comunitários. É um lugar vibrante onde os visitantes podem experimentar a cena cultural local.
+
+Feira de Arte e Artesanato da Praça Getúlio Vargas: Uma excelente oportunidade para os visitantes conhecerem a arte e o artesanato local, além de experimentarem a culinária regional em barracas de comida típica.
+
+Esses são apenas alguns dos pontos turísticos que Guarulhos tem a oferecer. Embora não seja tão conhecida como outros destinos turísticos no Brasil, a cidade tem seu próprio charme e pode surpreender aqueles que a visitam com sua riqueza cultural e natural.
 
 <br/>
 
@@ -20,18 +29,4 @@ Além de cursinho, o A-Sol também apresenta uma cozinha comunitária que oferec
 ## Fotos
 
 
-<img src="/assets/img/fotos/acolhida2023.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/assin2022.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/acol2022.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/acolhida1.png" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/aula2023.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/acolhida2.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/acolhida2022.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/acolhida3.jpeg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+<img src="https://www.guarulhos.sp.gov.br/sites/default/files/Viaduto%20Cidade%20de%20Guarulhos_Foto_Diego%20Secco_Drone.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
