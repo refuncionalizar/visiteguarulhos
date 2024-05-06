@@ -22,10 +22,6 @@ Esses são apenas alguns dos pontos turísticos que Guarulhos tem a oferecer. Em
 
 <br/>
 
-## Endereço
-
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10LPFfOQs-K0vDFnkDwFXEh64xuXFb28&ehbc=2E312F&noprof=1" width="100%" height="480"></iframe>
-
 ## Fotos
 
 
