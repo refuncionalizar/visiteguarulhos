@@ -1,21 +1,15 @@
 ---
 layout: post 
-title: Funcionamento
+title: Parque Ecológico
 ---
 
-<p style="text-align:justify;">As aulas do Cursinho Comunitário acontecem aos sábados, das 9h às 18h, na sede localizada na Rua Suíça, com enfoque nos vestibulares da Fuvest e ENEM. Parte do corpo de professores é composto de ex-estudantes dos anos anteriores do cursinho que se formaram em universidades públicas ou em universidades particulares por meio de programas sociais como o ProUni, e retornarem para colaborar com a formação das próximas gerações. </p>
+O Parque Ecológico do Tietê é uma das joias naturais de Guarulhos e uma importante área de preservação ambiental na região metropolitana de São Paulo. Localizado às margens do rio Tietê, este parque oferece uma fuga refrescante da agitação da cidade, proporcionando aos visitantes um ambiente tranquilo e natural para desfrutar.
 
-<p style="text-align:justify;">O espaço conta com cerca de 40 vagas para estudantes, apresentando um processo seletivo de entrada do cursinho que ocorre nos primeiros meses do ano, que consiste em uma análise socioeconômica. O acompanhamento do processo seletivo pode ser realizado nas redes sociais do cursinho, e após a primeira chamada, pessoas que se inscreveram podem ser convocadas no decorrer do ano em caso de desistências. </p>
+Com uma área extensa, o Parque Ecológico do Tietê abriga uma variedade de ecossistemas, incluindo áreas de mata nativa, campos, lagoas e o próprio rio Tietê. Isso proporciona uma grande diversidade de flora e fauna, tornando o parque um local ideal para observação de pássaros, caminhadas e atividades ao ar livre.
 
-<p style="text-align:justify;"> Outras atividades relacionadas ao Centro Comunitário A-Sol, como saraus e cursos de formação ocorrem em datas e horários diversos, sendo possível o acompanhamento por meio das redes sociais do A-Sol. </p>
+Além das trilhas para caminhada e das áreas de lazer, o parque também oferece infraestrutura para atividades esportivas, como ciclismo, corrida e piqueniques. Há também espaços para educação ambiental, onde os visitantes podem aprender sobre a importância da conservação e preservação dos recursos naturais.
+
+O Parque Ecológico do Tietê não só proporciona um refúgio natural para os moradores de Guarulhos e visitantes da região, mas também desempenha um papel crucial na proteção do meio ambiente e na promoção da conscientização sobre a importância da preservação dos ecossistemas aquáticos e terrestres. É um lugar onde as pessoas podem se reconectar com a natureza, relaxar e apreciar a beleza natural que a cidade tem a oferecer.
 
 
-<img src="/assets/img/fotos/func1.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/func2.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/func3.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/func4.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
-
-<img src="/assets/img/fotos/func5.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
+<img src="https://offloadmedia.feverup.com/saopaulosecreto.com/wp-content/uploads/2020/09/19074201/1845px-Lago_do_Parque_Ecol%C3%B3gico_Tiet%C3%AA.jpg" style="  display: block;   margin-left: auto;  margin-right: auto; width:90%;">
