@@ -1,7 +1,7 @@
 # Site settings
-title: Cursinho Comunitário A-Sol
+title: VisiteGuarulhos
 baseurl: "/"
-url: "https://cursinhoasol.com.br"
+url: 
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
@@ -9,7 +9,7 @@ author:
   name: 
   desc: 
   email: ksub0912@gmail.com
-  selfie: assets/img/cursinho.png
+  selfie:
 
 # social
 social:
@@ -17,11 +17,11 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: cursinhoasol
+  facebook: 
   flickr:
   github: 
   google_plus:
-  instagram: cursinhoa.sol
+  instagram: 
   keybase:
   linkedin: 
   pinterest:
